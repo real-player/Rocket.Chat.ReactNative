@@ -10090,10 +10090,10 @@ react-native-blur@^3.1.1:
   dependencies:
     prop-types "^15.5.10"
 
-react-native-device-info@^0.25.1:
-  version "0.25.1"
-  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-0.25.1.tgz#bde3be9fe0e06d0c07ab5837e4fc1af90f66696b"
-  integrity sha512-KW4Mf0CVEy10sbWsrnP7dMiB+FhFa46r11+JPdXWu1hHoSy8B/DR5Cb29kHHZSCPftHPzEhfMDflRe4IOgHrVw==
+react-native-device-info@^0.28.0:
+  version "0.28.0"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-0.28.0.tgz#2024cea46248935e1139fb9418e73b095b6d6f4f"
+  integrity sha512-Xbu8zG8Ve6vhys1+wVfxKsC2tcYVw35zwgUYUpUGSHYmm9asakpitUKa7IEqNdRYmcShLVt+V/UZtq/sGhxopQ==
 
 react-native-dialog@^5.5.0:
   version "5.5.0"
