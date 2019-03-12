@@ -9135,10 +9135,10 @@ osenv@^0.1.4:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.0"
 
-otp.js@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/otp.js/-/otp.js-1.1.0.tgz#50205487b01c9e5befaa063458704c0959c35d58"
-  integrity sha1-UCBUh7AcnlvvqgY0WHBMCVnDXVg=
+otp.js@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/otp.js/-/otp.js-1.2.0.tgz#51dc13a346313c4912c4fede41d344a40b252efe"
+  integrity sha512-sBKB9dvJh/WwnqsudtRYmaKpVnhG/MPA7DCtHxfj+CFmehJJzdiz9k3yE3oz4KP0RNNj+4tP547W2GdQCBJx9A==
   dependencies:
     big-integer "^1.6.9"
     binstring "^0.2.1"
